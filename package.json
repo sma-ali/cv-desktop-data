@@ -1,0 +1,13 @@
+{
+  "name": "cv-desktop-data",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Signes de vie publics de l'usine, lus par alismaani.fr",
+  "type": "module",
+  "license": "MIT",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "test": "node --test",
+    "export": "node export.mjs"
+  }
+}
