@@ -1,12 +1,11 @@
 {
   "version": 2,
-  "measuredAt": "2026-11-16T23:00:00Z",
-  "lastActivityAt": "2026-11-16T00:00:00Z",
+  "measuredAt": "2026-11-17T23:00:00Z",
+  "lastActivityAt": "2026-11-17T00:00:00Z",
   "since": "2026-10-01T00:00:00Z",
   "activity": [
     17,
     17,
-    17,
     15,
     15,
     15,
@@ -16,6 +15,7 @@
     16,
     17,
     17,
+    15,
     15,
     15
   ],
@@ -23,7 +23,7 @@
     "channels": 9,
     "videos": 450,
     "perDay": 16,
-    "views": 140000,
-    "likes": 6100
+    "views": 130000,
+    "likes": 6200
   }
 }
